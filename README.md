@@ -1,1 +1,7 @@
-# JacksHomepage
+Welcome to my GitHub homepage!
+
+Below is a little bit about me.
+
+I am a computer science student at Canisius University expected to graduate in May of 2025. I decided to go for a degree in computer science because I have always been fascinated by how programs are built and function. I find myself always wanting to design the next big thing, which has me researching all types of ways to develop different software. I love to learn and have a specific fascination with data collection and algorithms. That is why I started my college career with a dual major in both accounting and finance. After a year and a half I decided to focus on finance and moved away from accounting. That was also when I added a minor in computer science. After taking that first computer science class I knew that I wanted to shift all of my focus to computer science, so I changed my major and added the business minor because I had already completed the classes neccessary to do so. This was a big change for me and it meant that I would have to take an extra year of school, but I knew that it was what I wanted to do. This has allowed me to continue my personal projects and has provided me the resources to expand upon them! I now am looking to make the next leap and get into the workforce to develop even more skills and advance my career.
+
+Some of the projects that I have worked on are linked in the different directories of this repository along with a description of the project.
